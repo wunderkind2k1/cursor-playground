@@ -37,6 +37,8 @@ Das Playbook ist:
 | Templates kopieren | [templates/](./templates/) |
 | Cycle-Logs | [cycles/](./cycles/) |
 | LinkedIn-Strategie | [linkedin/gtm-strategie.md](./linkedin/gtm-strategie.md) |
+| LinkedIn-Posts (Launch) | [linkedin/posts/](./linkedin/posts/) |
+| Notion einrichten | [notion/SETUP.md](./notion/SETUP.md) |
 | Diese Woche starten | [LAUNCH-CHECKLIST.md](./LAUNCH-CHECKLIST.md) |
 
 ---
@@ -74,7 +76,7 @@ Details: [playbook/00-start-hier.md#offenlegungsrichtlinien](./playbook/00-start
 
 ## Aktive Version
 
-**v1.0.0** — Playbook-Name finalisiert: *Ideen auf Probe*. Siehe [CHANGELOG.md](./CHANGELOG.md).
+**v1.1.0** — Notion-Setup + LinkedIn Launch-Posts. Siehe [CHANGELOG.md](./CHANGELOG.md).
 
 ---
 

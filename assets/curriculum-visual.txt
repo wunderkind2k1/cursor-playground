@@ -1,0 +1,56 @@
+# Curriculum — Ideen auf Probe
+
+ASCII-Timeline für Notion, Newsletter #0 und LinkedIn.
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                        IDEEN AUF PROBE — 6 MONATE                          │
+│                     ~5 h/Woche · B2B · DACH · LinkedIn                      │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+  MONAT 1          MONAT 2          MONAT 3           MONAT 4
+  ┌──────┐         ┌──────┐         ┌──────┐          ┌──────┐
+  │ 5PM  │── G1 ──►│ ICP  │── G2 ──►│Discov│── G3 ───►│ Pos. │── G4 ──►
+  │ ~5h  │         │ ~10h │         │ ~20h │          │ ~10h │
+  └──────┘         └──────┘         └──────┘          └──────┘
+       │                │                │                 │
+   Early Kill      Problem-Post     Compleadly         Rauchtest
+                   Sales Nav        + Mom Test         LinkedIn
+
+  MONAT 5          MONAT 6
+  ┌──────┐         ┌──────────────┐
+  │Price │── G5 ──►│ Kill/Hustle  │
+  │ ~10h │         │     ~8h      │
+  └──────┘         └───────┬──────┘
+                           │
+              ┌────────────┴────────────┐
+              ▼                         ▼
+         ┌─────────┐              ┌─────────┐
+         │  KILL   │              │ HUSTLE  │
+         │ Archiv  │              │ Phase 2 │
+         │ Lessons │              │ POC→Pay │
+         └─────────┘              └─────────┘
+
+GATES
+─────
+G1  ≥4/5 5PM bestanden
+G2  75+ ICP, Problem-Post resoniert
+G3  Schmerz in ≥5 Gesprächen (≥3 Firmen)
+G4  ≥3 qualifizierte Nachfrage-Signale
+G5  ≥2 starke Budget-Signale
+★   Kill or Hustle Memo
+```
+
+## Nutzung
+
+1. Screenshot für Notion Cover oder eingebettetes Bild
+2. Newsletter Ausgabe #0
+3. LinkedIn-Karussell (Slide 1–3: Timeline, Slide 4–5: Gates, Slide 6: CTA)
+
+## Export als PNG (optional)
+
+```bash
+# Mit monod oder carbon.now.sh — oder Figma nachbauen
+```
+
+Für v1.2: echtes `curriculum-visual.png` hier ablegen.
