@@ -2,7 +2,7 @@
 
 > *Ein persönliches, öffentliches 6-Monats-Tagebuch für B2B-Ideen in DACH.*
 
-Jede Idee bekommt sechs Monate (~5 Stunden pro Woche). Am Ende entscheide ich: **Kill or Hustle**.
+Jede Idee bekommt sechs Monate (~5 Stunden pro Woche). Am Ende entscheide ich: **Stop oder Weitermachen**.
 
 Kein VC. Kein YC. Kein Demo Day. Nur Evidenz.
 
@@ -12,8 +12,8 @@ Kein VC. Kein YC. Kein Demo Day. Nur Evidenz.
 
 Ich teste **eine B2B-Idee gleichzeitig** über sechs Monate. Jeder Lauf bekommt einen **Codename** (z. B. *Projekt Linde*). Am Ende:
 
-- **Kill** — stoppen, dokumentieren, weiter
-- **Hustle** — bauen, erste zahlende Kunden holen
+- **Stop** — stoppen, dokumentieren, weiter
+- **Weitermachen** — bauen, erste zahlende Kunden holen
 
 Das Playbook ist:
 
@@ -33,7 +33,7 @@ Das Playbook ist:
 | Einen neuen Cycle starten | [playbook/00-start-hier.md](./playbook/00-start-hier.md) |
 | Monat 1 (5PM) | [playbook/01-monat-1-5pm.md](./playbook/01-monat-1-5pm.md) |
 | Monat 3 (Discovery) | [playbook/03-monat-3-discovery.md](./playbook/03-monat-3-discovery.md) |
-| Kill or Hustle entscheiden | [playbook/06-monat-6-kill-or-hustle.md](./playbook/06-monat-6-kill-or-hustle.md) |
+| Stop oder Weitermachen entscheiden | [playbook/06-monat-6-stop-weitermachen.md](./playbook/06-monat-6-stop-weitermachen.md) |
 | Templates kopieren | [templates/](./templates/) |
 | Cycle-Logs | [cycles/](./cycles/) |
 | LinkedIn-Strategie | [linkedin/gtm-strategie.md](./linkedin/gtm-strategie.md) |
@@ -68,7 +68,7 @@ Alles *darf* öffentlich sein. Die Tiefe variiert:
 | L1 | Methodik, Gates | Voll |
 | L2 | Interview-Anzahl, Muster | Aggregiert |
 | L3 | Idee, Pricing | Kategorie, Range — oberflächlich |
-| L4 | Kill/Hustle | Entscheidung + kompakte Begründung |
+| L4 | Stop/Weitermachen | Entscheidung + kompakte Begründung |
 
 Details: [playbook/00-start-hier.md#offenlegungsrichtlinien](./playbook/00-start-hier.md#offenlegungsrichtlinien)
 
@@ -76,7 +76,7 @@ Details: [playbook/00-start-hier.md#offenlegungsrichtlinien](./playbook/00-start
 
 ## Aktive Version
 
-**v1.1.0** — Notion-Setup + LinkedIn Launch-Posts. Siehe [CHANGELOG.md](./CHANGELOG.md).
+**v1.2.0** — Entscheidungssprache: Stop oder Weitermachen. Siehe [CHANGELOG.md](./CHANGELOG.md).
 
 ---
 

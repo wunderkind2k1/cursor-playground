@@ -23,7 +23,7 @@ Fünf Dimensionen, hart bewertet: Problem, Käufer, Pricing-Modell, Markt, Produ
 
 Das klingt nach Bürokratie. Ist es nicht. Es ist der günstigste Filter, den ich kenne.
 
-Rob Walling formuliert das seit Jahren — 2 Stunden Recherche, bevor 20 Stunden Outreach, bevor 200 Stunden Bauen. Ich habe das in ein festes Gate gegossen: **G1**. Wer es nicht passiert, wird nicht weiterverfolgt. Early Kill. Kein Drama, kein sunk-cost-Bias.
+Rob Walling formuliert das seit Jahren — 2 Stunden Recherche, bevor 20 Stunden Outreach, bevor 200 Stunden Bauen. Ich habe das in ein festes Gate gegossen: **G1**. Wer es nicht passiert, wird nicht weiterverfolgt. Früher Stop. Kein Drama, kein sunk-cost-Bias.
 
 Und ja — die meisten meiner Ideen scheitern hier. Das ist kein Makel. Das ist der Sinn des Monats.
 
@@ -57,7 +57,7 @@ P · Pricing Model
 M · Market  
 M · Product-Founder Fit
 
-Gate G1: ≥4/5 → weiter. ≤2/5 → Early Kill.
+Gate G1: ≥4/5 → weiter. ≤2/5 → Früher Stop.
 
 ---
 

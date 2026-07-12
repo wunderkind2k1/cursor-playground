@@ -6,7 +6,7 @@
 
 ## In einem Satz
 
-Jede B2B-Idee bekommt **6 Monate** und **einen Codename**. Am Ende entscheide ich: **Kill or Hustle** — nicht „MVP um jeden Preis".
+Jede B2B-Idee bekommt **6 Monate** und **einen Codename**. Am Ende entscheide ich: **Stop oder Weitermachen** — nicht „MVP um jeden Preis".
 
 ---
 
@@ -29,15 +29,15 @@ Jede B2B-Idee bekommt **6 Monate** und **einen Codename**. Am Ende entscheide ic
 | 3 | Discovery (LinkedIn) | G3 |
 | 4 | Positionierung | G4 |
 | 5 | Zahlungsbereitschaft | G5 |
-| 6 | **Kill or Hustle** | Entscheidung |
+| 6 | **Stop oder Weitermachen** | Entscheidung |
 
 → Details: [Das Curriculum](./) *(Link zur Curriculum-Unterseite)*
 
 ---
 
-## Kill or Hustle
+## Stop oder Weitermachen
 
-| | Kill | Hustle |
+| | Stop | Weitermachen |
 |---|------|--------|
 | Bedeutung | Stoppen, dokumentieren | Weiterbauen |
 | Erfolg? | **Ja** — Zeit gespart | Erste zahlende Kunden |
@@ -52,7 +52,7 @@ Alles *darf* öffentlich sein. Die Tiefe variiert:
 - **Methodik** — vollständig öffentlich
 - **Interview-Metriken** — aggregiert
 - **Produktidee & Pricing** — oberflächlich (Codenames)
-- **Kill/Hustle** — Entscheidung + kompakte Begründung
+- **Stop/Weitermachen** — Entscheidung + kompakte Begründung
 
 ---
 

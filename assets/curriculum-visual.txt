@@ -14,21 +14,22 @@ ASCII-Timeline für Notion, Newsletter #0 und LinkedIn.
   │ ~5h  │         │ ~10h │         │ ~20h │          │ ~10h │
   └──────┘         └──────┘         └──────┘          └──────┘
        │                │                │                 │
-   Early Kill      Problem-Post     Compleadly         Rauchtest
+   Früher Stop      Problem-Post     Compleadly         Rauchtest
                    Sales Nav        + Mom Test         LinkedIn
 
   MONAT 5          MONAT 6
   ┌──────┐         ┌──────────────┐
-  │Price │── G5 ──►│ Kill/Hustle  │
+  │Price │── G5 ──►│ Stop/Weitermachen  │
   │ ~10h │         │     ~8h      │
   └──────┘         └───────┬──────┘
                            │
               ┌────────────┴────────────┐
               ▼                         ▼
          ┌─────────┐              ┌─────────┐
-         │  KILL   │              │ HUSTLE  │
-         │ Archiv  │              │ Phase 2 │
-         │ Lessons │              │ POC→Pay │
+         │  STOP   │              │WEITER-  │
+         │ Archiv  │              │ MACHEN  │
+         │ Lessons │              │ Phase 2 │
+         │         │              │ POC→Pay │
          └─────────┘              └─────────┘
 
 GATES
@@ -38,7 +39,7 @@ G2  75+ ICP, Problem-Post resoniert
 G3  Schmerz in ≥5 Gesprächen (≥3 Firmen)
 G4  ≥3 qualifizierte Nachfrage-Signale
 G5  ≥2 starke Budget-Signale
-★   Kill or Hustle Memo
+★   Stop oder Weitermachen Memo
 ```
 
 ## Nutzung

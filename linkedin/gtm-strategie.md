@@ -13,7 +13,7 @@ GitHub (Source of Truth) → Notion (hübsch lesen) → LinkedIn (Distribution +
 ```
 
 **LinkedIn ist zwei Dinge:**
-1. **Bühne** — Playbook-Fortschritt, Methodik, Kill/Hustle
+1. **Bühne** — Playbook-Fortschritt, Methodik, Stop/Weitermachen
 2. **Labor** — ICP finden, Gespräche buchen, Sprache testen
 
 ---
@@ -26,7 +26,7 @@ GitHub (Source of Truth) → Notion (hübsch lesen) → LinkedIn (Distribution +
 
 ### Info-Bereich (Struktur)
 
-1. **Was ich tue** — Eine Idee, 6 Monate, Kill or Hustle
+1. **Was ich tue** — Eine Idee, 6 Monate, Stop oder Weitermachen
 2. **Für wen** — B2B-Gründer in DACH (auch wenn primär für dich)
 3. **Was du bekommst** — Playbook, Newsletter, ehrliche Logs
 4. **Was ich nicht bin** — Kein VC, kein YC, kein „Growth Hacking"
@@ -51,7 +51,7 @@ GitHub (Source of Truth) → Notion (hübsch lesen) → LinkedIn (Distribution +
 | **Playbook-Log** | 40% | „Monat 3 bei Projekt Linde: ~15 Gespräche, 2 Muster" |
 | **Methodik** | 30% | „Warum ich vor dem Landing Page 15 Gespräche führe" |
 | **Problem-first** | 20% | Schmerz des ICP (L3 — Kategorie, kein Produktname) |
-| **Version / Entscheidung** | 10% | Playbook v1.1, Kill or Hustle |
+| **Version / Entscheidung** | 10% | Playbook v1.1, Stop oder Weitermachen |
 
 ### Kadenz
 
@@ -83,7 +83,7 @@ GitHub (Source of Truth) → Notion (hübsch lesen) → LinkedIn (Distribution +
 | 3 | Monat 3: Discovery + Compleadly nur bis Erstkontakt |
 | 4 | Monat 4: Positionierung in Kundensprache |
 | 5 | Monat 5: Zahlungsbereitschaft testen |
-| 6 | Monat 6: Kill or Hustle |
+| 6 | Monat 6: Stop oder Weitermachen |
 
 ### Vor Newsletter-Start
 
@@ -95,7 +95,7 @@ GitHub (Source of Truth) → Notion (hübsch lesen) → LinkedIn (Distribution +
 
 ### Cycle-Start
 
-> Neuer Lauf bei **Ideen auf Probe**. Codename: **[Codename]**. B2B, DACH. Ziel: Kill or Hustle — nicht „MVP um jeden Preis". Playbook: [Notion] · [GitHub]
+> Neuer Lauf bei **Ideen auf Probe**. Codename: **[Codename]**. B2B, DACH. Ziel: Stop oder Weitermachen — nicht „MVP um jeden Preis". Playbook: [Notion] · [GitHub]
 
 ### Monats-Log (L2)
 
@@ -103,15 +103,15 @@ GitHub (Source of Truth) → Notion (hübsch lesen) → LinkedIn (Distribution +
 
 ### Methodik
 
-> Die meisten Gründer bauen zu früh. Mein Playbook gibt jeder Idee 6 Monate — und am Ende heißt es Kill or Hustle, nicht „wir launchen trotzdem". [Link]
+> Die meisten Gründer bauen zu früh. Mein Playbook gibt jeder Idee 6 Monate — und am Ende heißt es Stop oder Weitermachen, nicht „wir launchen trotzdem". [Link]
 
-### Kill (L4)
+### Stop (L4)
 
-> **Kill** bei [Codename]. Nach 6 Monaten Evidenz: [3 Bullets]. Gutes Ergebnis — [X] Stunden gespart, bevor ich gebaut habe. Was ich gelernt habe: [1 Satz]. Playbook v[X.Y]: [Link]
+> **Stop** bei [Codename]. Nach 6 Monaten Evidenz: [3 Bullets]. Gutes Ergebnis — [X] Stunden gespart, bevor ich gebaut habe. Was ich gelernt habe: [1 Satz]. Playbook v[X.Y]: [Link]
 
-### Hustle (L4)
+### Weitermachen (L4)
 
-> **Hustle** bei [Codename]. 6 Monate Validierung überstanden. Was mich überzeugt: [3 Bullets]. Nächste Phase: erste zahlende Kunden. Ich dokumentiere weiter.
+> **Weitermachen** bei [Codename]. 6 Monate Validierung überstanden. Was mich überzeugt: [3 Bullets]. Nächste Phase: erste zahlende Kunden. Ich dokumentiere weiter.
 
 ---
 

@@ -19,11 +19,11 @@ Deshalb starte ich **Ideen auf Probe**.
 
 Es ist kein Kurs. Kein Accelerator. Kein „Launch in 30 Tagen". Es ist ein öffentliches 6-Monats-Protokoll, mit dem ich B2B-Ideen in DACH systematisch teste — bevor ich Code schreibe oder Geld in Ads steckt.
 
-**Das Prinzip ist einfach:** Eine Idee. Ein Codename. Sechs Monate. Am Ende eine Entscheidung: **Kill or Hustle**.
+**Das Prinzip ist einfach:** Eine Idee. Ein Codename. Sechs Monate. Am Ende eine Entscheidung: **Stop oder Weitermachen**.
 
-Kill heißt: Die Evidenz reicht nicht. Ich halte an, dokumentiere, was ich gelernt habe, und gehe weiter. Das ist kein Scheitern — es ist der billigste Erfolg, den ein bootstrapped Gründer haben kann.
+Stop heißt: Die Evidenz reicht nicht. Ich halte an, dokumentiere, was ich gelernt habe, und gehe weiter. Das ist kein Scheitern — es ist der billigste Erfolg, den ein bootstrapped Gründer haben kann.
 
-Hustle heißt: Das Problem ist echt, der Käufer erreichbar, die Signale konsistent. Dann baue ich — ob als POC, Prototyp oder MVP, hängt vom Stand ab — mit einem klaren Ziel: erste zahlende Kunden, nicht Feature-Parität mit dem Markt.
+Weitermachen heißt: Das Problem ist echt, der Käufer erreichbar, die Signale konsistent. Dann baue ich — ob als POC, Prototyp oder MVP, hängt vom Stand ab — mit einem klaren Ziel: erste zahlende Kunden, nicht Feature-Parität mit dem Markt.
 
 **Die sechs Monate sind kein Countdown zum Launch.** Sie sind eine Kette von Gates:
 
@@ -32,7 +32,7 @@ Hustle heißt: Das Problem ist echt, der Käufer erreichbar, die Signale konsist
 → Monat 3: Discovery-Gespräche über LinkedIn  
 → Monat 4: Positionierung und Rauchtest  
 → Monat 5: Zahlungsbereitschaft  
-→ Monat 6: Kill or Hustle
+→ Monat 6: Stop oder Weitermachen
 
 Ich orientiere mich an dem, was Rob Walling, MicroConf und *Startup for the Rest of Us* seit Jahren predigen: Erst verstehen, dann bauen. Ich übersetze das in ein festes Curriculum — mit LinkedIn als primärem Validierungskanal, weil dort mein B2B-Käufer in DACH erreichbar ist.
 
@@ -43,7 +43,7 @@ Alles liegt offen:
 — Lesefassung: [Notion-URL]  
 — Source of Truth (versioniert): https://github.com/wunderkind2k1/cursor-playground
 
-Wenn du in DACH ebenfalls B2B-Ideen testest — nimm dir das Playbook. Wenn du zuschauen willst, wie ein Kill aussieht, der genauso viel wert ist wie ein Hustle: folge mit.
+Wenn du in DACH ebenfalls B2B-Ideen testest — nimm dir das Playbook. Wenn du zuschauen willst, wie ein Stop aussieht, der genauso viel wert ist wie ein Weitermachen: folge mit.
 
 Ich bin gespannt, wie viele meiner Ideen die sechs Monate überleben.
 
@@ -70,7 +70,7 @@ M2 · ICP + Wettbewerbslandschaft
 M3 · Discovery via LinkedIn  
 M4 · Positionierung + Rauchtest  
 M5 · Zahlungsbereitschaft  
-M6 · Kill or Hustle
+M6 · Stop oder Weitermachen
 
 Playbook: [Notion-URL]
 

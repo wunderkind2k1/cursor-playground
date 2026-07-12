@@ -6,7 +6,7 @@ Fertige Posts für **Ideen auf Probe**. Editorialer Ton: sachlich, persönlicher
 |---|-------|------|-----|----------|
 | 1 | [01-ankuendigung.md](./01-ankuendigung.md) | Tag 1 | Launch | 1.900 |
 | 2 | [02-methodik-5pm.md](./02-methodik-5pm.md) | Tag 3–4 | Methodik | 1.650 |
-| 3 | [03-kill-or-hustle.md](./03-kill-or-hustle.md) | Woche 2 | Marke | 1.750 |
+| 3 | [03-stop-weitermachen.md](./03-stop-weitermachen.md) | Woche 2 | Marke | 1.750 |
 | 4 | [04-newsletter-teaser.md](./04-newsletter-teaser.md) | Woche 4–5 | Newsletter | 1.600 |
 | 5 | [05-version-bump.md](./05-version-bump.md) | Bei Releases | Update | ~900 |
 

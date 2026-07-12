@@ -8,16 +8,16 @@ Visuelle Materialien für Playbook und LinkedIn.
 |-------|--------------|--------|
 | `curriculum-visual.txt` | ASCII 6-Monats-Timeline (Screenshot für Notion) | ✅ v1.1 |
 | `curriculum-visual.png` | PNG-Version | 🔲 Ausstehend |
-| `kill-or-hustle-visual.png` | Entscheidungsbaum | 🔲 Ausstehend |
+| `stop-weitermachen-visual.png` | Entscheidungsbaum | 🔲 Ausstehend |
 | `github-social-preview.png` | Repo-Preview für GitHub/LinkedIn | 🔲 Ausstehend |
 
 ## Curriculum-Visual — Inhalt
 
 ```
 M1: 5PM ──G1──► M2: ICP ──G2──► M3: Discovery ──G3──►
-M4: Position ──G4──► M5: Pricing ──G5──► M6: Kill or Hustle
+M4: Position ──G4──► M5: Pricing ──G5──► M6: Stop oder Weitermachen
                                               │
-                                    Kill ◄────┴────► Hustle
+                                    Stop ◄────┴────► Weitermachen
                                               │
                                          Phase 2
 ```

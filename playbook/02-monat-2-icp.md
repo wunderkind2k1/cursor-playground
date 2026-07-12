@@ -99,7 +99,7 @@ Kategorien erfassen:
 | Problem-Post | ≥2 qualifizierte Kommentare oder 1 DM |
 | Landschaft | Mindestens 1 bezahlte Alternative oder teurer Workaround |
 
-**Fail:** ICP nicht findbar → Early Kill oder ICP pivotieren (zählt als Playbook-Learning, v+1).
+**Fail:** ICP nicht findbar → Früher Stop oder ICP pivotieren (zählt als Playbook-Learning, v+1).
 
 ---
 

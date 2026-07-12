@@ -10,12 +10,12 @@ Ich teste B2B-Ideen systematisch — bevor ich baue.
 
 Zu oft habe ich gemerkt: Bauen fühlt sich nach Fortschritt an, Validierung nach Stillstand. Beides täuscht. **Ideen auf Probe** ist meine Antwort darauf — ein öffentliches 6-Monats-Protokoll für B2B in DACH.
 
-Eine Idee. Ein Codename. Klare Gates jeden Monat. Am Ende: **Kill or Hustle** — nicht „MVP um jeden Preis".
+Eine Idee. Ein Codename. Klare Gates jeden Monat. Am Ende: **Stop oder Weitermachen** — nicht „MVP um jeden Preis".
 
 Was ich dokumentiere:
 — Den vollständigen Validierungsweg (Monat 1–6)  
 — Echte Signale aus LinkedIn-Gesprächen, nicht Likes  
-— Kill-Entscheidungen genauso wie Hustle — ohne Erfolgsfilter
+— Stop-Entscheidungen genauso wie Weitermachen — ohne Erfolgsfilter
 
 Was ich nicht mache:
 Kein VC-Track. Kein YC-Narrativ. Kein „Ship fast and break things".

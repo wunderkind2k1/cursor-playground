@@ -21,7 +21,7 @@ LinkedIn-Gespräche kosten Vertrauen und Zeit. Wenn die Idee bei 5PM durchfällt
 - [ ] LinkedIn-Stichprobe: 10 ICP-Profile manuell prüfen — existieren sie in DACH?
 - [ ] Gate G1 bewerten
 - [ ] Öffentliches Monats-Log schreiben (L2/L3)
-- [ ] Bei Kill: [Kill-or-Hustle-Memo](../templates/kill-or-hustle-memo.md) (Early Kill) + Cycle abschließen
+- [ ] Bei Stop: [Stop-Weitermachen-Memo](../templates/stop-weitermachen-memo.md) (Früher Stop) + Cycle abschließen
 
 ---
 
@@ -81,9 +81,9 @@ Adaptiert von Rob Walling ([Episode 628](https://www.startupsfortherestofus.com/
 |----------|--------|
 | **≥4/5 Pass** | Weiter zu [Monat 2](./02-monat-2-icp.md) |
 | **3/5** | Eine Woche nacharbeiten, dann erneut bewerten |
-| **≤2/5** | **Early Kill** — Cycle archivieren, Lessons dokumentieren |
+| **≤2/5** | **Früher Stop** — Cycle archivieren, Lessons dokumentieren |
 
-**Early Kill ist Erfolg.** Du hast 5 Monate gespart.
+**Früher Stop ist Erfolg.** Du hast 5 Monate gespart.
 
 ---
 

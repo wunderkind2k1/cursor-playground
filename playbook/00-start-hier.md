@@ -37,7 +37,7 @@ Jeder Lauf bekommt einen **Codename** — kein Produktname, keine Marke.
 - 5PM-Scorecard (leer)
 - ICP-Liste (leer)
 - Interview-Log (leer)
-- Kill-or-Hustle-Memo (leer)
+- Stop-Weitermachen-Memo (leer)
 
 ### 3. Öffentlichen Cycle-Ordner anlegen
 
@@ -51,7 +51,7 @@ cycles/projekt-linde/
 
 ### 4. LinkedIn-Post (Cycle-Start)
 
-> Neuer 6-Monats-Lauf. Codename: **Projekt Linde**. B2B, DACH. Ziel: Kill or Hustle — nicht „MVP um jeden Preis". Ich dokumentiere den Weg öffentlich. Playbook: [GitHub-Link]
+> Neuer 6-Monats-Lauf. Codename: **Projekt Linde**. B2B, DACH. Ziel: Stop oder Weitermachen — nicht „MVP um jeden Preis". Ich dokumentiere den Weg öffentlich. Playbook: [GitHub-Link]
 
 **Offenlegung:** Codename ja, Ideenkategorie optional (L3), kein Feature-Pitch.
 
@@ -64,7 +64,7 @@ cycles/projekt-linde/
 | Monat 3 — Discovery | Woche 9–12 |
 | Monat 4 — Positionierung | Woche 13–16 |
 | Monat 5 — Pricing | Woche 17–20 |
-| Monat 6 — Kill or Hustle | Woche 21–24 |
+| Monat 6 — Stop oder Weitermachen | Woche 21–24 |
 
 ---
 
@@ -72,7 +72,7 @@ cycles/projekt-linde/
 
 ```
 Monat 1    Monat 2    Monat 3    Monat 4    Monat 5    Monat 6
-  5PM   →  ICP    →  Discovery → Position →  Pricing → Kill/Hustle
+  5PM   →  ICP    →  Discovery → Position →  Pricing → Stop/Weitermachen
   G1         G2         G3          G4         G5         ENTSCHEIDUNG
 ```
 
@@ -83,9 +83,9 @@ Monat 1    Monat 2    Monat 3    Monat 4    Monat 5    Monat 6
 | 3 | [03-monat-3-discovery.md](./03-monat-3-discovery.md) | G3: Muster in ≥5 Gesprächen |
 | 4 | [04-monat-4-positionierung.md](./04-monat-4-positionierung.md) | G4: Nachfrage-Signale |
 | 5 | [05-monat-5-pricing.md](./05-monat-5-pricing.md) | G5: Zahlungsbereitschaft |
-| 6 | [06-monat-6-kill-or-hustle.md](./06-monat-6-kill-or-hustle.md) | Kill or Hustle |
+| 6 | [06-monat-6-stop-weitermachen.md](./06-monat-6-stop-weitermachen.md) | Stop oder Weitermachen |
 
-Nach **Hustle:** [07-phase-2-hustle.md](./07-phase-2-hustle.md)
+Nach **Weitermachen:** [07-phase-2-weitermachen.md](./07-phase-2-weitermachen.md)
 
 ---
 
@@ -100,15 +100,15 @@ Alles *kann* öffentlich werden. Standard-Tiefe:
 | Muster & Learnings | L2 — ohne Namen | Case-by-case |
 | Produktidee | L3 — Kategorie, nicht Name | Case-by-case |
 | Pricing | L3 — Range, nicht exakt | Case-by-case |
-| Kill/Hustle | L4 — Entscheidung + 3–5 Bullets | Meist voll |
+| Stop/Weitermachen | L4 — Entscheidung + 3–5 Bullets | Meist voll |
 
 **Faustregel pro Post:** Erkenntnis öffentlich, Rohdaten in Notion.
 
 ---
 
-## Kill or Hustle — Kurzdefinition
+## Stop oder Weitermachen — Kurzdefinition
 
-| | **Kill** | **Hustle** |
+| | **Stop** | **Weitermachen** |
 |---|----------|------------|
 | Bedeutung | Idee stoppen, sauber archivieren | Idee weiterverfolgen |
 | Erfolg? | **Ja** — 200+ Stunden gespart | Mandat für Phase 2 |

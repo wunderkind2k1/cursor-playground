@@ -1,8 +1,8 @@
-# Kill-or-Hustle-Memo
+# Stop-Weitermachen-Memo
 
 **Cycle:** [Codename]  
 **Datum:** YYYY-MM-DD  
-**Entscheidung:** Kill / Hustle
+**Entscheidung:** Stop / Weitermachen
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## Entscheidungs-Scorecard
 
-| Dimension | Kill / Unsicher / Hustle | Notiz (intern) |
+| Dimension | Stop / Unsicher / Weitermachen | Notiz (intern) |
 |-----------|--------------------------|----------------|
 | Problem | | |
 | Käufer | | |
@@ -31,9 +31,9 @@
 
 ---
 
-## Kill — Begründung
+## Stop — Begründung
 
-*(Ausfüllen bei Kill)*
+*(Ausfüllen bei Stop)*
 
 1.
 2.
@@ -47,9 +47,9 @@
 
 ---
 
-## Hustle — Begründung
+## Weitermachen — Begründung
 
-*(Ausfüllen bei Hustle)*
+*(Ausfüllen bei Weitermachen)*
 
 1.
 2.

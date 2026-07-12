@@ -17,7 +17,7 @@ Dafür starte ich einen Newsletter auf LinkedIn: **Ideen auf Probe**.
 
 14-tägig. Deutsch. B2B. DACH. Kein Motivations-Recycling, kein „5 Tipps für mehr Reichweite".
 
-Jede Ausgabe folgt dem Curriculum: ein Monat, ein Schwerpunkt, ein ehrlicher Zwischenstand. Ausgabe #0 legt das Fundament — was das Protokoll ist, wie die sechs Monate aufgebaut sind, was Kill or Hustle bedeutet. Danach: 5PM, ICP, Discovery, Positionierung, Pricing, Entscheidung.
+Jede Ausgabe folgt dem Curriculum: ein Monat, ein Schwerpunkt, ein ehrlicher Zwischenstand. Ausgabe #0 legt das Fundament — was das Protokoll ist, wie die sechs Monate aufgebaut sind, was Stop oder Weitermachen bedeutet. Danach: 5PM, ICP, Discovery, Positionierung, Pricing, Entscheidung.
 
 Dazwischen, sobald der erste Cycle läuft: Signale aus echten Gesprächen — aggregiert, ohne Namen, ohne Pitch. Codenames statt Produktnamen. Ergebnisse statt Ankündigungen.
 
@@ -60,7 +60,7 @@ Das Playbook parallel dazu: [Notion-URL]
 1. **Einstieg:** Bauen fühlt sich wie Fortschritt an. Validierung nicht. (persönlich)
 2. **Was dieser Newsletter ist** — und was er nicht ist (kein Growth-Hacking)
 3. **Das Curriculum** — M1–M6, Gates, ASCII-Visual
-4. **Kill or Hustle** — warum beides ein gutes Ergebnis sein kann
+4. **Stop oder Weitermachen** — warum beides ein gutes Ergebnis sein kann
 5. **Transparenz** — was öffentlich ist, was zurückhaltend bleibt
 6. **Links** — Notion + GitHub
 7. **Schluss:** Eine Frage an die Leser

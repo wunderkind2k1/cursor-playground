@@ -28,8 +28,8 @@ Anleitung zum Anlegen der **öffentlichen Leseschicht** und des **privaten Cycle
 │   ├── Monat 3 — Discovery                 ← playbook/03-monat-3-discovery.md
 │   ├── Monat 4 — Positionierung            ← playbook/04-monat-4-positionierung.md
 │   ├── Monat 5 — Pricing                   ← playbook/05-monat-5-pricing.md
-│   ├── Monat 6 — Kill or Hustle            ← playbook/06-monat-6-kill-or-hustle.md
-│   └── Phase 2 — Hustle                    ← playbook/07-phase-2-hustle.md
+│   ├── Monat 6 — Stop oder Weitermachen            ← playbook/06-monat-6-stop-weitermachen.md
+│   └── Phase 2 — Weitermachen                    ← playbook/07-phase-2-weitermachen.md
 ├── 📋 Templates                            ← Link zu GitHub / eingebettete Kopien
 ├── 🔄 Cycles                               ← Öffentliche Codename-Logs
 │   └── (leer bis erster Lauf)
@@ -56,7 +56,7 @@ Für jede Seite im Baum oben:
 
 1. `/page` → Unterseite erstellen
 2. Markdown aus dem entsprechenden `playbook/*.md` kopieren
-3. Code-Blöcke in Notion-Callouts umwandeln (Gates = gelb, Kill = rot, Hustle = grün)
+3. Code-Blöcke in Notion-Callouts umwandeln (Gates = gelb, Stop = rot, Weitermachen = grün)
 4. Footer auf jeder Seite:
 
 > Version 1.1 · [GitHub](https://github.com/wunderkind2k1/cursor-playground) · [Changelog](https://github.com/wunderkind2k1/cursor-playground/blob/main/CHANGELOG.md)
@@ -97,7 +97,7 @@ Privat: Volle Templates als Notion-Duplikate zum Ausfüllen (s. unten).
 │       ├── Interview-Log (Database)
 │       ├── Muster & Synthese
 │       ├── Pricing-Hypothese
-│       └── Kill-or-Hustle-Memo
+│       └── Stop-Weitermachen-Memo
 ├── 📤 Export-Queue                         ← Was geht öffentlich (L1–L4)
 └── 🔄 Sync-Log                             ← Datum, Version, was kopiert wurde
 ```

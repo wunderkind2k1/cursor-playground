@@ -1,4 +1,4 @@
-# Post 3 — Kill or Hustle erklärt
+# Post 3 — Stop oder Weitermachen erklärt
 
 **Wann:** Woche 2  
 **Typ:** Methodik / Marke  
@@ -17,11 +17,11 @@ Jede Formulierung erlaubt es, weiterzumachen, ohne sich zu entscheiden. Man baut
 
 Bei **Ideen auf Probe** lasse ich mir diesen Ausweg nicht.
 
-Am Ende von sechs Monaten gibt es nur zwei Wörter: **Kill or Hustle**. Nicht als Slogan — als Vertrag mit mir selbst.
+Am Ende von sechs Monaten stehen nur zwei Entscheidungen: **Stop** oder **Weitermachen**. Nicht als Slogan — als Vertrag mit mir selbst.
 
-**Kill** heißt: Die Daten reichen nicht. Das Problem ist zu schwach, der Käufer zu schwer erreichbar, die Zahlungsbereitschaft zu dünn — oder ich habe die Energie verloren. Ich stoppe, dokumentiere öffentlich, was ich gelernt habe, und gehe zur nächsten Idee. Das ist kein Scheitern. Es ist die disziplinierteste Form von Erfolg, die ein bootstrapped Gründer haben kann: 200 Stunden, die er nicht in ein Produkt steckt, das niemand braucht.
+**Stop** heißt: Die Daten reichen nicht. Das Problem ist zu schwach, der Käufer zu schwer erreichbar, die Zahlungsbereitschaft zu dünn — oder ich habe die Energie verloren. Ich stoppe, dokumentiere öffentlich, was ich gelernt habe, und gehe zur nächsten Idee. Das ist kein Scheitern. Es ist die disziplinierteste Form von Erfolg, die ein bootstrapped Gründer haben kann: 200 Stunden, die er nicht in ein Produkt steckt, das niemand braucht.
 
-**Hustle** heißt: Sechs Monate Validierung haben eine klare Geschichte erzählt. Dann baue ich — POC, Prototyp oder MVP, je nach Reifegrad — mit einem einzigen Ziel: erste zahlende Kunden. Nicht Feature-Parität. Nicht „wir sind auch auf dem Markt".
+**Weitermachen** heißt: Sechs Monate Validierung haben eine klare Geschichte erzählt. Dann baue ich — POC, Prototyp oder MVP, je nach Reifegrad — mit einem einzigen Ziel: erste zahlende Kunden. Nicht Feature-Parität. Nicht „wir sind auch auf dem Markt".
 
 Die Entscheidung fällt nicht nach Likes, Feature-Wünschen oder „klingt interessant". Sie fällt nach sechs Dimensionen:
 
@@ -34,11 +34,11 @@ Die Entscheidung fällt nicht nach Likes, Feature-Wünschen oder „klingt inter
 
 Alles andere ist Rauschen.
 
-Ich halte das öffentlich fest — auch die Kills. Weil die meisten Playbooks nur Hustles zeigen. Und weil junge Gründer dann glauben, sie scheiterten, wenn sie eigentlich gerade die einzige kluge Entscheidung getroffen haben.
+Ich halte das öffentlich fest — auch die Stops. Weil die meisten Playbooks nur Weitermachen-Entscheidungen zeigen. Und weil junge Gründer dann glauben, sie scheiterten, wenn sie eigentlich gerade die einzige kluge Entscheidung getroffen haben.
 
 Das Protokoll: [Notion-URL]
 
-Was wäre für dich der härteste Kill-Grund — Budget, Käufer, Motivation oder etwas anderes?
+Was wäre für dich der härteste Stop-Grund — Budget, Käufer, Motivation oder etwas anderes?
 
 ---
 
@@ -48,13 +48,13 @@ Was wäre für dich der härteste Kill-Grund — Budget, Käufer, Motivation ode
 
 **B:** *Pivot ist manchmal nur ein elegantes Wort für: Ich will mich nicht entscheiden.*
 
-**C:** *Ein Kill nach sechs Monaten ist teurer als ein Kill nach sechs Wochen — aber immer noch billiger als ein Jahr Bauen ohne Käufer.*
+**C:** *Ein Stop nach sechs Monaten ist teurer als ein Stop nach sechs Wochen — aber immer noch billiger als ein Jahr Bauen ohne Käufer.*
 
 ---
 
 ## Optional: Poll
 
-Titel: *Was würde dich nach 6 Monaten eher zum Kill bewegen?*
+Titel: *Was würde dich nach 6 Monaten eher zum Stop bewegen?*
 
 1. Kein Budget-Signal  
 2. Käufer schwer erreichbar  
@@ -68,10 +68,10 @@ Titel: *Was würde dich nach 6 Monaten eher zum Kill bewegen?*
 | Element | Warum |
 |---------|-------|
 | Kritik an Startup-Sprache | Editorial, meinungsstark |
-| Kill als Erfolg framen | Differenzierung, Ernsthaftigkeit |
+| Stop als Erfolg framen | Differenzierung, Ernsthaftigkeit |
 | Sechs Dimensionen in Fragen | Lesbar, nicht Scorecard-Wand |
-| „Öffentlich auch die Kills" | Transparenz-Versprechen einlösen |
-| Kein Rhyme-Betonung im Fließtext | Seriosität; Rhyme bleibt Markenanker |
+| „Öffentlich auch die Stops" | Transparenz-Versprechen einlösen |
+| Stop / Weitermachen statt Kill/Hustle | Besser für deutsches Publikum |
 
 **Länge:** ~1.750 Zeichen
 

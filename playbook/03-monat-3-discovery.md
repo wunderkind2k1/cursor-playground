@@ -102,7 +102,7 @@ Nach 10+ Gesprächen: Stoppe und synthetisiere.
 | Signalqualität | Verhalten, nicht nur Interesse | Nur „klingt gut" |
 | Käufer | Economic Buyer in ≥3 Gesprächen | Nur Endnutzer ohne Budget |
 
-**Bei Fail:** Kein Monat 4 — entweder ICP schärfen (2 Wochen) oder Early Kill.
+**Bei Fail:** Kein Monat 4 — entweder ICP schärfen (2 Wochen) oder Früher Stop.
 
 ---
 

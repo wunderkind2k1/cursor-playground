@@ -15,7 +15,7 @@ Repo bleibt vorerst `cursor-playground` auf GitHub.
   - Monat 1–6 aus `playbook/` kopieren
   - Footer: *„Version 1.1 — [GitHub](https://github.com/wunderkind2k1/cursor-playground)"*
 - [ ] Privaten Notion-Workspace vorbereiten
-  - Template: 5PM, ICP, Interview-Log, Kill-or-Hustle-Memo
+  - Template: 5PM, ICP, Interview-Log, Stop-Weitermachen-Memo
 - [ ] Compleadly: 2–3 Erstkontakt-Varianten aus [templates/outreach-erstkontakt.md](./templates/outreach-erstkontakt.md)
 
 ---
@@ -39,7 +39,7 @@ Fertige Texte — `[Notion-URL]` ersetzen:
 
 - **Post 1:** [linkedin/posts/01-ankuendigung.md](./linkedin/posts/01-ankuendigung.md)
 - **Post 2:** [linkedin/posts/02-methodik-5pm.md](./linkedin/posts/02-methodik-5pm.md)
-- **Woche 2:** [linkedin/posts/03-kill-or-hustle.md](./linkedin/posts/03-kill-or-hustle.md)
+- **Woche 2:** [linkedin/posts/03-stop-weitermachen.md](./linkedin/posts/03-stop-weitermachen.md)
 - **Woche 4–5:** [linkedin/posts/04-newsletter-teaser.md](./linkedin/posts/04-newsletter-teaser.md)
 
 ---

@@ -29,4 +29,4 @@ Dann [templates/codename-cycle-start.md](../templates/codename-cycle-start.md) d
 
 ## Abgeschlossene Cycles
 
-*(Nach erstem Kill oder Hustle eintragen)*
+*(Nach erstem Stop oder Weitermachen eintragen)*
