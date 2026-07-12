@@ -1,31 +1,31 @@
 # LinkedIn — Info-Bereich (copy-paste)
 
-Für den **Info**-Abschnitt deines Profils. Erste Person, deutsch.
+Für den **Info**-Abschnitt deines Profils. Erste Person, deutsch. Editorial, nicht werblich.
 
 ---
 
 ## Text
 
-Ich teste B2B-Ideen, bevor ich baue.
+Ich teste B2B-Ideen systematisch — bevor ich baue.
 
-**Ideen auf Probe** ist mein öffentliches 6-Monats-Tagebuch: Eine Idee, ein Codename, klare Gates — am Ende heißt es Kill or Hustle. Nicht MVP um jeden Preis.
+Zu oft habe ich gemerkt: Bauen fühlt sich nach Fortschritt an, Validierung nach Stillstand. Beides täuscht. **Ideen auf Probe** ist meine Antwort darauf — ein öffentliches 6-Monats-Protokoll für B2B in DACH.
 
-Was ich teile:
-→ Den kompletten Validierungs-Playbook (Monat 1–6)
-→ Echte Signale aus LinkedIn-Gesprächen in DACH
-→ Ehrliche Kill-Entscheidungen — nicht nur Erfolgsgeschichten
+Eine Idee. Ein Codename. Klare Gates jeden Monat. Am Ende: **Kill or Hustle** — nicht „MVP um jeden Preis".
 
-Was ich nicht bin:
-Kein VC. Kein YC. Kein „Ship fast and break things".
+Was ich dokumentiere:
+— Den vollständigen Validierungsweg (Monat 1–6)  
+— Echte Signale aus LinkedIn-Gesprächen, nicht Likes  
+— Kill-Entscheidungen genauso wie Hustle — ohne Erfolgsfilter
 
-Fokus: Bootstrapped B2B-SaaS. LinkedIn für Discovery, nicht für Likes.
+Was ich nicht mache:
+Kein VC-Track. Kein YC-Narrativ. Kein „Ship fast and break things".
+
+Inspiration: Bootstrapped SaaS — *Startup for the Rest of Us*, MicroConf, Rob Wallings Validierungsframeworks. Übersetzt für LinkedIn-first Discovery in DACH.
 
 Links:
-📘 Lesefassung: [Notion-URL]
-🔧 Source of Truth: https://github.com/wunderkind2k1/cursor-playground
-📬 Newsletter „Ideen auf Probe" — ab [Monat], 14-tägig
-
-Wenn du selbst eine B2B-Idee in DACH testest: Folge mit — oder nimm dir das Playbook und pass es an.
+Lesefassung → [Notion-URL]  
+Source of Truth → https://github.com/wunderkind2k1/cursor-playground  
+Newsletter „Ideen auf Probe" → ab [Monat], 14-tägig
 
 ---
 

@@ -59,6 +59,11 @@ Versionierung folgt [Semantic Versioning](https://semver.org/lang/de/).
 
 ## [Unreleased]
 
+### Geändert
+
+- LinkedIn Post 1 (Ankündigung): editorial überarbeitet — mehr Tiefe, Seriosität, persönlicher Anker
+- `linkedin/profil-info.md`: Ton angeglichen
+
 ### Geplant
 
 - PNG Curriculum-Visual in `assets/`
