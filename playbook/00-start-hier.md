@@ -1,4 +1,4 @@
-# Start hier
+# Start hier — Ideen auf Probe
 
 So startest du einen neuen 6-Monats-Lauf — unabhängig von der konkreten Idee.
 

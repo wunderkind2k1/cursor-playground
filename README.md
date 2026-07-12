@@ -1,20 +1,23 @@
-# Bevor ich baue
+# Ideen auf Probe
 
-> *Arbeitstitel — Name noch nicht final. Siehe [Namensrichtung](#namensrichtung).*
+> *Ein persönliches, öffentliches 6-Monats-Tagebuch für B2B-Ideen in DACH.*
 
-Ein persönliches, öffentliches 6-Monats-Playbook für **B2B-Ideen in DACH**.
+Jede Idee bekommt sechs Monate (~5 Stunden pro Woche). Am Ende entscheide ich: **Kill or Hustle**.
 
-Kein VC. Kein YC. Kein Demo Day. Nur Evidenz — und am Ende: **Kill or Hustle**.
+Kein VC. Kein YC. Kein Demo Day. Nur Evidenz.
 
 ---
 
 ## Was das ist
 
-Ich teste **eine B2B-Idee gleichzeitig** über sechs Monate (~5 Stunden pro Woche). Jeder Lauf bekommt einen **Codename** (z. B. *Projekt Linde*). Am Ende entscheide ich: **Kill** (stoppen, dokumentieren, weiter) oder **Hustle** (bauen, erste zahlende Kunden holen).
+Ich teste **eine B2B-Idee gleichzeitig** über sechs Monate. Jeder Lauf bekommt einen **Codename** (z. B. *Projekt Linde*). Am Ende:
+
+- **Kill** — stoppen, dokumentieren, weiter
+- **Hustle** — bauen, erste zahlende Kunden holen
 
 Das Playbook ist:
 
-- **Öffentlich** — von Tag eins auf GitHub
+- **Öffentlich** — von Tag eins auf GitHub ([cursor-playground](https://github.com/wunderkind2k1/cursor-playground))
 - **Versioniert** — Git-Tags + [CHANGELOG.md](./CHANGELOG.md)
 - **Lesbar** — gespiegelt auf einer Notion-Seite (manuell bei Releases)
 - **Persönlich** — mein Gründer-Tagebuch, keine Agentur-Methodik
@@ -34,6 +37,7 @@ Das Playbook ist:
 | Templates kopieren | [templates/](./templates/) |
 | Cycle-Logs | [cycles/](./cycles/) |
 | LinkedIn-Strategie | [linkedin/gtm-strategie.md](./linkedin/gtm-strategie.md) |
+| Diese Woche starten | [LAUNCH-CHECKLIST.md](./LAUNCH-CHECKLIST.md) |
 
 ---
 
@@ -70,22 +74,7 @@ Details: [playbook/00-start-hier.md#offenlegungsrichtlinien](./playbook/00-start
 
 ## Aktive Version
 
-**v0.5.0** — Erstes committbares Playbook-Grundgerüst. Siehe [CHANGELOG.md](./CHANGELOG.md).
-
----
-
-## Namensrichtung
-
-Der Name soll **persönlich** klingen — wie ein Tagebuch, nicht wie ein Kurs. Aktuelle Favoriten zur Diskussion:
-
-1. **Bevor ich baue**
-2. **Ideen auf Probe**
-3. **Mein 6-Monats-Vertrag mit einer Idee**
-4. **Das Laborbuch**
-5. **Ehrliche Monate**
-6. **Was ich teste, bevor ich Code schreibe**
-
-Feedback willkommen via Issue oder LinkedIn.
+**v1.0.0** — Playbook-Name finalisiert: *Ideen auf Probe*. Siehe [CHANGELOG.md](./CHANGELOG.md).
 
 ---
 

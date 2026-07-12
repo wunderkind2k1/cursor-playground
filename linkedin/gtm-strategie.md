@@ -1,4 +1,4 @@
-# LinkedIn GTM-Strategie
+# LinkedIn GTM-Strategie — Ideen auf Probe
 
 Deutsch. DACH. B2B. ~5 Stunden/Woche. Öffentliches Playbook ab Tag eins.
 
@@ -20,9 +20,9 @@ GitHub (Source of Truth) → Notion (hübsch lesen) → LinkedIn (Distribution +
 
 ## Profil-Setup
 
-### Headline (anpassen wenn Name steht)
+### Headline
 
-> [Playbook-Name] — 6 Monate B2B-Validierung in DACH, öffentlich dokumentiert
+> Ideen auf Probe — 6 Monate B2B-Validierung in DACH, öffentlich dokumentiert
 
 ### Info-Bereich (Struktur)
 
@@ -36,7 +36,7 @@ GitHub (Source of Truth) → Notion (hübsch lesen) → LinkedIn (Distribution +
 
 | Slot | Inhalt |
 |------|--------|
-| 1 | Notion-Playbook (Reading Layer) |
+| 1 | Notion — *Ideen auf Probe* (Reading Layer) |
 | 2 | GitHub-Repo (Changelog / Version) |
 | 3 | Newsletter (nach Launch) |
 
@@ -68,7 +68,7 @@ GitHub (Source of Truth) → Notion (hübsch lesen) → LinkedIn (Distribution +
 | Setting | Wert |
 |---------|------|
 | **Sprache** | Deutsch |
-| **Name (Vorschlag)** | *B2B validieren — bevor ich baue* |
+| **Name** | *Ideen auf Probe* |
 | **Rhythmus** | 14-tägig |
 | **Start** | Woche 6–8 nach Profil-Update |
 | **Owner** | Persönliches Profil (nicht Company Page) |
@@ -95,7 +95,7 @@ GitHub (Source of Truth) → Notion (hübsch lesen) → LinkedIn (Distribution +
 
 ### Cycle-Start
 
-> Neuer 6-Monats-Lauf. Codename: **[Codename]**. B2B, DACH. Ziel: Kill or Hustle — nicht „MVP um jeden Preis". Ich dokumentiere den Weg öffentlich. Playbook: [Notion] · [GitHub]
+> Neuer Lauf bei **Ideen auf Probe**. Codename: **[Codename]**. B2B, DACH. Ziel: Kill or Hustle — nicht „MVP um jeden Preis". Playbook: [Notion] · [GitHub]
 
 ### Monats-Log (L2)
 

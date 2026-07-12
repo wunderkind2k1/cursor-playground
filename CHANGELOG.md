@@ -27,11 +27,24 @@ Versionierung folgt [Semantic Versioning](https://semver.org/lang/de/).
 
 ---
 
+## [v1.0.0] — 2026-07-12
+
+### Geändert
+
+- Playbook-Name finalisiert: **Ideen auf Probe**
+- README, GTM und Launch-Checklist auf finalen Namen angepasst
+- Repo-Name bleibt vorerst `cursor-playground`
+
+### Hinzugefügt
+
+- [LAUNCH-CHECKLIST.md](./LAUNCH-CHECKLIST.md) — Wochenplan für LinkedIn + Notion-Start
+
+---
+
 ## [Unreleased]
 
-### Geplant für v1.0.0
+### Geplant
 
-- Finaler Playbook-Name
 - Curriculum-Visual in `assets/`
 - Erster echter Cycle-Log (Codename TBD)
 - Phase-2-Inhalte nach erstem Hustle aus Praxis
