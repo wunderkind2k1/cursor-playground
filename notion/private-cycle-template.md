@@ -1,7 +1,7 @@
 # [Template] Neuer Cycle
 
 **Codename:** Projekt ___________  
-**Status:** Aktiv / Kill / Hustle  
+**Status:** Aktiv / Stop / Weitermachen  
 **Gestartet:** YYYY-MM-DD  
 **GitHub-Log:** `cycles/[codename]/README.md`
 
@@ -29,7 +29,7 @@
 | G3 — Discovery | 3 | ⬜ | |
 | G4 — Positionierung | 4 | ⬜ | |
 | G5 — Pricing | 5 | ⬜ | |
-| Kill/Hustle | 6 | ⬜ | |
+| Stop/Weitermachen | 6 | ⬜ | |
 
 ---
 
@@ -63,7 +63,7 @@
 
 ---
 
-## Kill-or-Hustle-Memo
+## Stop-Weitermachen-Memo
 
 *(Monat 6)*
 

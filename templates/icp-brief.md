@@ -66,4 +66,4 @@ Posted in last 30 days: Ja/Nein
 ## Gate G2
 
 - [ ] Pass → Monat 3
-- [ ] Fail → ICP pivot oder Early Kill
+- [ ] Fail → ICP pivot oder Früher Stop

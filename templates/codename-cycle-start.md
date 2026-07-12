@@ -40,7 +40,7 @@
 
 ## LinkedIn Cycle-Start (Vorlage)
 
-> Neuer Lauf bei **Ideen auf Probe**. Codename: **[Codename]**. B2B, DACH. Ziel: Kill or Hustle — nicht „MVP um jeden Preis". Playbook: [GitHub] | [Notion]
+> Neuer Lauf bei **Ideen auf Probe**. Codename: **[Codename]**. B2B, DACH. Ziel: Stop oder Weitermachen — nicht „MVP um jeden Preis". Playbook: [GitHub] | [Notion]
 
 ---
 

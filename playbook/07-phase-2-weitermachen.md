@@ -1,10 +1,10 @@
-# Phase 2 — Hustle
+# Phase 2 — Weitermachen
 
-**Wann:** Nach Kill-or-Hustle-Entscheidung = Hustle  
+**Wann:** Nach Stop-Weitermachen-Entscheidung = Weitermachen  
 **Ziel:** Erste zahlende Kunden + validierte Produktidee weiterentwickeln  
 **Dauer:** Flexibel — outcome-driven, kein fixes 6-Monats-Raster
 
-> ⚠️ Dieses Kapitel ist ein **Rahmen**. Konkrete Inhalte kommen nach dem ersten echten Hustle in dein Playbook (v1.x).
+> ⚠️ Dieses Kapitel ist ein **Rahmen**. Konkrete Inhalte kommen nach dem ersten echten Weitermachen in dein Playbook (v1.x).
 
 ---
 
@@ -101,14 +101,14 @@ H1 Scope → H2 Build → H3 Beta → H4 Pay → H5 Evolve
 
 | Ergebnis | Bedeutung |
 |----------|-----------|
-| 1–3 zahlende Kunden | Hustle erfolgreich — Produktbetrieb |
-| Beta, kein Geld | Zurück: Pricing/Positionierung oder Kill |
-| Niemand nutzt Beta | Kill oder Pivot |
+| 1–3 zahlende Kunden | Weitermachen erfolgreich — Produktbetrieb |
+| Beta, kein Geld | Zurück: Pricing/Positionierung oder Stop |
+| Niemand nutzt Beta | Stop oder Pivot |
 
 ---
 
 ## Zurück zu Phase 1?
 
-Wenn Hustle in Phase 2 scheitert: Das ist kein Playbook-Fehler — dokumentiere und starte neuen Codename.
+Wenn Weitermachen in Phase 2 scheitert: Das ist kein Playbook-Fehler — dokumentiere und starte neuen Codename.
 
 → [00-start-hier.md](./00-start-hier.md)

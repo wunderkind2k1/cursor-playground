@@ -60,7 +60,7 @@ Direkt, aber nicht verkäuferisch:
 | Internes Tool | Entwicklungszeit |
 | Status quo | Opportunitätskosten, Fehler |
 
-**Wenn Workaround-Kosten < dein Preis und kein Schmerz:** Kill-Signal.
+**Wenn Workaround-Kosten < dein Preis und kein Schmerz:** Stop-Signal.
 
 ---
 
@@ -76,10 +76,10 @@ Direkt, aber nicht verkäuferisch:
 
 ## Öffentlicher Output (Monat 5)
 
-> Monat 5 bei [Codename]. Zahlungsbereitschaft getestet. Signal: [stark/mittel/schwach]. [Ein Satz Learning, L3]. Nächster Monat: Kill or Hustle.
+> Monat 5 bei [Codename]. Zahlungsbereitschaft getestet. Signal: [stark/mittel/schwach]. [Ein Satz Learning, L3]. Nächster Monat: Stop oder Weitermachen.
 
 ---
 
 ## Nächster Schritt
 
-→ [Monat 6: Kill or Hustle](./06-monat-6-kill-or-hustle.md)
+→ [Monat 6: Stop oder Weitermachen](./06-monat-6-stop-weitermachen.md)

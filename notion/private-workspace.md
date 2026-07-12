@@ -56,7 +56,7 @@ Nach 10+ Gesprächen aktualisieren:
 Intern: Modell, Range, Vergleichspreise.  
 Öffentlich (L3): nur „Signal stark/mittel/schwach".
 
-### Kill-or-Hustle-Memo
+### Stop-Weitermachen-Memo
 
 Vollständig intern. Öffentliche Version = 3–5 Sätze (L4).
 
@@ -70,7 +70,7 @@ Vor jedem LinkedIn-Post prüfen:
 |----------|----------------|-------|
 | Monats-Log | L2 | Keine Namen, gerundete Zahlen |
 | Problem-first | L3 | Kategorie, kein Produktname |
-| Kill/Hustle | L4 | Entscheidung OK, Details intern |
+| Stop/Weitermachen | L4 | Entscheidung OK, Details intern |
 | Pricing | L3 | Keine exakten Zahlen |
 
 **Workflow:**

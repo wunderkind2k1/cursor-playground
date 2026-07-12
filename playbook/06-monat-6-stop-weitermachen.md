@@ -1,16 +1,16 @@
-# Monat 6 — Kill or Hustle
+# Monat 6 — Stop oder Weitermachen
 
 **Ziel:** Eine klare Entscheidung treffen — mit sechs Monaten Evidenz, nicht mit Bauchgefühl.
 
 **Aufwand:** ~6–8 Stunden  
-**Ergebnis:** Kill oder Hustle
+**Ergebnis:** Stop oder Weitermachen
 
 ---
 
 ## Checkliste
 
 - [ ] Alle Gates G1–G5 reviewen
-- [ ] [Kill-or-Hustle-Memo](../templates/kill-or-hustle-memo.md) ausfüllen
+- [ ] [Stop-Weitermachen-Memo](../templates/stop-weitermachen-memo.md) ausfüllen
 - [ ] Entscheidung treffen (1–2h Reflexion, nicht wochenlang)
 - [ ] `cycles/[codename]/README.md` finalisieren
 - [ ] CHANGELOG + ggf. Playbook-Version bumpen
@@ -21,9 +21,9 @@
 
 ## Entscheidungs-Scorecard
 
-Bewerte jede Dimension: **Kill / Unsicher / Hustle**
+Bewerte jede Dimension: **Stop / Unsicher / Weitermachen**
 
-| Dimension | Kill-Signal | Hustle-Signal |
+| Dimension | Stop-Signal | Weitermachen-Signal |
 |-----------|-------------|---------------|
 | **Problem** | Nice-to-have | Dringend, wiederholt, teuer |
 | **Käufer** | Nicht erreichbar / keine Budgethoheit | Economic Buyer auf LinkedIn bestätigt |
@@ -36,50 +36,50 @@ Bewerte jede Dimension: **Kill / Unsicher / Hustle**
 
 | Score | Ergebnis |
 |-------|----------|
-| ≥4× Hustle, 0× Kill | **Hustle** |
-| ≥2× Kill (bei Problem, Käufer oder Zahlung) | **Kill** |
-| Gemischt | 48h Pause, dann nochmal — wenn weiterhin gemischt: **Kill** (Default: konservativ) |
+| ≥4× Weitermachen, 0× Stop | **Weitermachen** |
+| ≥2× Stop (bei Problem, Käufer oder Zahlung) | **Stop** |
+| Gemischt | 48h Pause, dann nochmal — wenn weiterhin gemischt: **Stop** (Default: konservativ) |
 
-**Kill ist Default bei Zweifel.** Bootstrap heißt: Kapital = Zeit.
+**Stop ist Default bei Zweifel.** Bootstrap heißt: Kapital = Zeit.
 
 ---
 
-## Kill — Was dann?
+## Stop — Was dann?
 
-1. Öffentlicher Kill-Post (L4) — 3 Bullets: Was du gelernt hast
+1. Öffentlicher Stop-Post (L4) — 3 Bullets: Was du gelernt hast
 2. Cycle-Log abschließen in `cycles/[codename]/`
 3. Playbook-Changelog: Was würdest du anders machen?
 4. Notion-Archiv
 5. Nächste Idee → neuer Codename → [Day 0](./00-start-hier.md)
 
-**Kill-Post-Vorlage:**
+**Stop-Post-Vorlage:**
 
-> **Kill** bei [Codename]. Nach 6 Monaten: [3 Learnings]. Das ist ein gutes Ergebnis — ich habe [X] Stunden gespart, bevor ich gebaut habe. Playbook v[X.Y]: [Link]
+> **Stop** bei [Codename]. Nach 6 Monaten: [3 Learnings]. Das ist ein gutes Ergebnis — ich habe [X] Stunden gespart, bevor ich gebaut habe. Playbook v[X.Y]: [Link]
 
 ---
 
-## Hustle — Was dann?
+## Weitermachen — Was dann?
 
-**Hustle** = Mandat für [Phase 2](./07-phase-2-hustle.md).
+**Weitermachen** = Mandat für [Phase 2](./07-phase-2-weitermachen.md).
 
 Du musst **nicht** wissen, ob POC, Prototyp oder MVP — das entscheidest du in Phase 2 H1.
 
-**Hustle-Post-Vorlage:**
+**Weitermachen-Post-Vorlage:**
 
-> **Hustle** bei [Codename]. 6 Monate Validierung überstanden. Was mich überzeugt: [3 Bullets, L4 kompakt]. Nächste Phase: [POC/Prototyp/MVP] + erste zahlende Kunden. Ich dokumentiere weiter.
+> **Weitermachen** bei [Codename]. 6 Monate Validierung überstanden. Was mich überzeugt: [3 Bullets, L4 kompakt]. Nächste Phase: [POC/Prototyp/MVP] + erste zahlende Kunden. Ich dokumentiere weiter.
 
 ---
 
 ## Playbook-Version nach Cycle
 
-Nach jedem abgeschlossenen Cycle (Kill oder Hustle):
+Nach jedem abgeschlossenen Cycle (Stop oder Weitermachen):
 
 1. Was hat im Playbook gefehlt?
 2. Welche Gates waren zu streng/zu locker?
 3. CHANGELOG-Eintrag
 4. Git-Tag `v1.x.0` bei substantiellen Änderungen
 
-**Phase-2-Inhalte** werden erst nach dem ersten echten Hustle aus Praxis ergänzt.
+**Phase-2-Inhalte** werden erst nach dem ersten echten Weitermachen aus Praxis ergänzt.
 
 ---
 
@@ -87,5 +87,5 @@ Nach jedem abgeschlossenen Cycle (Kill oder Hustle):
 
 | Ergebnis | Link |
 |----------|------|
-| Kill | Neuer Cycle → [00-start-hier.md](./00-start-hier.md) |
-| Hustle | [07-phase-2-hustle.md](./07-phase-2-hustle.md) |
+| Stop | Neuer Cycle → [00-start-hier.md](./00-start-hier.md) |
+| Weitermachen | [07-phase-2-weitermachen.md](./07-phase-2-weitermachen.md) |

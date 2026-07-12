@@ -1,6 +1,6 @@
 # Cycle-Log — [Codename]
 
-**Status:** Aktiv / Kill / Hustle  
+**Status:** Aktiv / Stop / Weitermachen  
 **Gestartet:** YYYY-MM-DD  
 **Abgeschlossen:** —  
 **Idee (intern):** [Nur in Notion — hier nicht]
@@ -18,7 +18,7 @@
 | 3 — Discovery | | G3 | |
 | 4 — Positionierung | | G4 | |
 | 5 — Pricing | | G5 | |
-| 6 — Kill/Hustle | | — | |
+| 6 — Stop/Weitermachen | | — | |
 
 ---
 
@@ -51,7 +51,7 @@
 
 ### Monat 6 — Entscheidung
 
-**Ergebnis:** Kill / Hustle  
+**Ergebnis:** Stop / Weitermachen  
 **Öffentlich:**
 
 ---

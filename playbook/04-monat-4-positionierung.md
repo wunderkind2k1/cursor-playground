@@ -90,7 +90,7 @@ Zwei Posts, eine Woche Abstand, gleicher ICP-Fokus:
 | ≥3 qualifizierte Signale | <2 oder nur unqualifiziertes Interesse |
 | Gewinner-Headline identifiziert | Keine Resonanz trotz 15 Interviews → Positionierungs- oder ICP-Problem |
 
-**Bei Fail:** Zurück zu Monat 3 (5 Nachinterviews) oder Kill erwägen.
+**Bei Fail:** Zurück zu Monat 3 (5 Nachinterviews) oder Stop erwägen.
 
 ---
 

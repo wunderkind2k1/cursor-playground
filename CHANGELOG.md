@@ -11,8 +11,8 @@ Versionierung folgt [Semantic Versioning](https://semver.org/lang/de/).
 
 ### Hinzugefügt
 
-- Vollständiges Playbook-Grundgerüst (Monat 1–6 + Phase 2 Hustle)
-- Templates: 5PM, ICP, Outreach (Compleadly + manuell), Interviews, Kill-or-Hustle-Memo, Cycle-Log
+- Vollständiges Playbook-Grundgerüst (Monat 1–6 + Phase 2 Weitermachen)
+- Templates: 5PM, ICP, Outreach (Compleadly + manuell), Interviews, Stop-Weitermachen-Memo, Cycle-Log
 - Codename-System für Cycles (`cycles/`)
 - LinkedIn GTM-Strategie (deutsch, DACH, Newsletter ab Woche 6–8)
 - Offenlegungsrichtlinien (L1–L4)
@@ -21,7 +21,7 @@ Versionierung folgt [Semantic Versioning](https://semver.org/lang/de/).
 ### Kontext
 
 - B2B only, DACH, ~5 h/Woche
-- Ziel Monat 6: Kill or Hustle (nicht MVP)
+- Ziel Monat 6: Stop oder Weitermachen (nicht MVP)
 - GitHub = Source of Truth, Notion = Reading Layer
 - Öffentliches Repo ab Tag eins
 
@@ -59,8 +59,16 @@ Versionierung folgt [Semantic Versioning](https://semver.org/lang/de/).
 
 ## [Unreleased]
 
+### Geändert (Terminologie v1.2)
+
+- **Kill or Hustle** → **Stop oder Weitermachen** (gesamtes Repo)
+- **Early Kill** → **Früher Stop**
+- Dateien umbenannt: `06-monat-6-stop-weitermachen.md`, `07-phase-2-weitermachen.md`, `stop-weitermachen-memo.md`, `03-stop-weitermachen.md`
+- LinkedIn Posts 1–5: editorial überarbeitet (vorherige Iteration)
+- `linkedin/profil-info.md`: Ton angeglichen
+
 ### Geplant
 
 - PNG Curriculum-Visual in `assets/`
 - Erster echter Cycle-Log (Codename TBD)
-- Phase-2-Inhalte nach erstem Hustle aus Praxis
+- Phase-2-Inhalte nach erstem Weitermachen aus Praxis

@@ -8,7 +8,7 @@ Visuelle Übersicht für *Ideen auf Probe*.
 
 ```
 Monat 1        Monat 2        Monat 3         Monat 4         Monat 5         Monat 6
-   5PM      →    ICP      →  Discovery   →  Positionierung →   Pricing    →  Kill/Hustle
+   5PM      →    ICP      →  Discovery   →  Positionierung →   Pricing    →  Stop/Weitermachen
    G1            G2             G3              G4              G5           ★
   ~5h           ~10h           ~20h            ~10h            ~10h           ~8h
 ```
@@ -21,12 +21,12 @@ Monat 1        Monat 2        Monat 3         Monat 4         Monat 5         Mo
 
 | Gate | Monat | Pass-Kriterium | Fail = |
 |------|-------|----------------|--------|
-| **G1** | 1 | ≥4/5 5PM bestanden | Early Kill |
-| **G2** | 2 | 75+ ICP-Profile, Problem-Post resoniert | ICP-Pivot oder Kill |
-| **G3** | 3 | Schmerz in ≥5 Gesprächen aus ≥3 Firmen | Nacharbeit oder Kill |
+| **G1** | 1 | ≥4/5 5PM bestanden | Früher Stop |
+| **G2** | 2 | 75+ ICP-Profile, Problem-Post resoniert | ICP-Pivot oder Stop |
+| **G3** | 3 | Schmerz in ≥5 Gesprächen aus ≥3 Firmen | Nacharbeit oder Stop |
 | **G4** | 4 | ≥3 qualifizierte Nachfrage-Signale | Zurück zu M3 |
-| **G5** | 5 | ≥2 starke Budget-Signale | Kill-Signal |
-| **★** | 6 | Kill or Hustle Memo | — |
+| **G5** | 5 | ≥2 starke Budget-Signale | Stop-Signal |
+| **★** | 6 | Stop oder Weitermachen Memo | — |
 
 ---
 
@@ -35,9 +35,9 @@ Monat 1        Monat 2        Monat 3         Monat 4         Monat 5         Mo
 ```
                     6 Monate Evidenz
                           │
-                    Kill or Hustle?
+                    Stop oder Weitermachen?
                     ┌─────┴─────┐
-                  Kill         Hustle
+                  Stop         Weitermachen
                     │             │
               Archiv +         Phase 2
               Lessons          POC → Pay
@@ -49,9 +49,9 @@ Monat 1        Monat 2        Monat 3         Monat 4         Monat 5         Mo
 
 ---
 
-## Phase 2 — Hustle (nach Monat 6)
+## Phase 2 — Weitermachen (nach Monat 6)
 
-Nur wenn Hustle. Kein fixes 6-Monats-Raster.
+Nur bei Weitermachen. Kein fixes 6-Monats-Raster.
 
 | Meilenstein | Ziel |
 |-------------|------|

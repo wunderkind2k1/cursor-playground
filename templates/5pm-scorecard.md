@@ -65,9 +65,9 @@ Skala: ✅ Pass | ⚠️ Unsicher | ❌ Fail
 
 - [ ] ≥4/5 Pass → Weiter Monat 2
 - [ ] 3/5 → Nacharbeiten, erneut bewerten
-- [ ] ≤2/5 → **Early Kill**
+- [ ] ≤2/5 → **Früher Stop**
 
-**Early Kill Datum:**  
+**Früher Stop Datum:**  
 **Öffentliche Zusammenfassung (L2/L3):**
 
 ---
