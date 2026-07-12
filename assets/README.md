@@ -6,7 +6,8 @@ Visuelle Materialien für Playbook und LinkedIn.
 
 | Asset | Beschreibung | Status |
 |-------|--------------|--------|
-| `curriculum-visual.png` | 6-Monats-Timeline (Monat 1–6 + Gates) | 🔲 Ausstehend |
+| `curriculum-visual.txt` | ASCII 6-Monats-Timeline (Screenshot für Notion) | ✅ v1.1 |
+| `curriculum-visual.png` | PNG-Version | 🔲 Ausstehend |
 | `kill-or-hustle-visual.png` | Entscheidungsbaum | 🔲 Ausstehend |
 | `github-social-preview.png` | Repo-Preview für GitHub/LinkedIn | 🔲 Ausstehend |
 

@@ -41,11 +41,26 @@ Versionierung folgt [Semantic Versioning](https://semver.org/lang/de/).
 
 ---
 
+## [v1.1.0] — 2026-07-12
+
+### Hinzugefügt
+
+- **Notion-Setup** (`notion/`) — öffentlicher Seitenbaum, private Workspace-Struktur, Sync-Anleitung
+- Copy-paste Inhalte: `public-startseite.md`, `public-curriculum.md`, `private-cycle-template.md`
+- **LinkedIn Launch-Posts** (`linkedin/posts/`) — 5 fertige Posts + Profil-Info
+- ASCII Curriculum-Visual (`assets/curriculum-visual.txt`) für Notion + Newsletter #0
+
+### Kontext
+
+- Git-Tag `v1.0.0` auf main gesetzt
+- Nächster Schritt: Notion live + LinkedIn Post 1
+
+---
+
 ## [Unreleased]
 
 ### Geplant
 
-- Curriculum-Visual in `assets/`
+- PNG Curriculum-Visual in `assets/`
 - Erster echter Cycle-Log (Codename TBD)
 - Phase-2-Inhalte nach erstem Hustle aus Praxis
-- Notion-Spiegel der v1.0-Struktur

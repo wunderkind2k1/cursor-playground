@@ -9,10 +9,11 @@ Repo bleibt vorerst `cursor-playground` auf GitHub.
 ## Tag 1–2: Infrastruktur
 
 - [ ] GitHub-Repo ist öffentlich und aktuell (v1.0.0)
-- [ ] Öffentliche Notion-Seite anlegen
-  - Startseite: Was ist *Ideen auf Probe*?
-  - Navigation: Monat 1–6 (aus `playbook/` kopieren)
-  - Footer: *„Version 1.0 — [GitHub](https://github.com/wunderkind2k1/cursor-playground)"*
+- [ ] Öffentliche Notion-Seite anlegen → Anleitung: [notion/SETUP.md](./notion/SETUP.md)
+  - Startseite: [notion/public-startseite.md](./notion/public-startseite.md)
+  - Curriculum: [notion/public-curriculum.md](./notion/public-curriculum.md)
+  - Monat 1–6 aus `playbook/` kopieren
+  - Footer: *„Version 1.1 — [GitHub](https://github.com/wunderkind2k1/cursor-playground)"*
 - [ ] Privaten Notion-Workspace vorbereiten
   - Template: 5PM, ICP, Interview-Log, Kill-or-Hustle-Memo
 - [ ] Compleadly: 2–3 Erstkontakt-Varianten aus [templates/outreach-erstkontakt.md](./templates/outreach-erstkontakt.md)
@@ -23,10 +24,7 @@ Repo bleibt vorerst `cursor-playground` auf GitHub.
 
 - [ ] **Headline:**
   > *Ideen auf Probe — 6 Monate B2B-Validierung in DACH, öffentlich dokumentiert*
-- [ ] **Info-Bereich** (erste Person):
-  - Eine Idee, 6 Monate, Kill or Hustle
-  - Kein VC, kein YC
-  - Links: Notion + GitHub
+- [ ] **Info-Bereich:** Copy-paste aus [linkedin/profil-info.md](./linkedin/profil-info.md)
 - [ ] **Creator Mode** aktivieren
 - [ ] **Featured** (3 Slots):
   1. Notion — *Ideen auf Probe*
@@ -37,21 +35,12 @@ Repo bleibt vorerst `cursor-playground` auf GitHub.
 
 ## Tag 3–4: Erste Posts (2×)
 
-**Post 1 — Ankündigung:**
+Fertige Texte — `[Notion-URL]` ersetzen:
 
-> Ich starte etwas Neues: **Ideen auf Probe**.
->
-> Jede B2B-Idee bekommt 6 Monate — ~5 Stunden pro Woche, ein Codename, klare Gates. Am Ende: Kill or Hustle. Nicht MVP um jeden Preis.
->
-> Das Playbook ist öffentlich. GitHub: [Link] · Lesefassung: [Notion]
->
-> Kein VC. Kein YC. Nur Evidenz aus echten Gesprächen in DACH.
-
-**Post 2 — Methodik:**
-
-> Die meisten Gründer bauen zu früh. Bei *Ideen auf Probe* gibt es in Monat 1 kein Outreach — nur einen 5PM-Stresstest. Erst wenn die Idee das übersteht, spreche ich mit dem ICP auf LinkedIn.
->
-> Warum? LinkedIn-Vertrauen ist endlich. [Link zum Playbook]
+- **Post 1:** [linkedin/posts/01-ankuendigung.md](./linkedin/posts/01-ankuendigung.md)
+- **Post 2:** [linkedin/posts/02-methodik-5pm.md](./linkedin/posts/02-methodik-5pm.md)
+- **Woche 2:** [linkedin/posts/03-kill-or-hustle.md](./linkedin/posts/03-kill-or-hustle.md)
+- **Woche 4–5:** [linkedin/posts/04-newsletter-teaser.md](./linkedin/posts/04-newsletter-teaser.md)
 
 ---
 
@@ -59,7 +48,7 @@ Repo bleibt vorerst `cursor-playground` auf GitHub.
 
 - [ ] 2×/Woche posten (Playbook-Log oder Methodik)
 - [ ] In Kommentaren bei relevanten ICP-Posts mitdenken (~30 Min./Woche)
-- [ ] Curriculum-Visual erstellen → `assets/curriculum-visual.png` + Notion + Featured
+- [ ] Curriculum-Visual → [assets/curriculum-visual.txt](./assets/curriculum-visual.txt) als Screenshot + Notion + Featured
 
 ---
 
