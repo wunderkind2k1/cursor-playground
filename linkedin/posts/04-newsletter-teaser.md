@@ -2,42 +2,89 @@
 
 **Wann:** Woche 4–5 (1 Woche vor Newsletter-Launch)  
 **Typ:** Newsletter-Ankündigung  
-**L-Stufe:** L1
+**L-Stufe:** L1  
+**Ton:** Editorial, sachlich, persönlicher Anker — kein Hype
 
 ---
 
 ## Post (copy-paste)
 
-Ich starte in Kürze einen LinkedIn-Newsletter: **Ideen auf Probe**.
+LinkedIn-Feeds sind für Snacks gebaut. Validierung braucht aber einen zweiten Gang.
 
-14-tägig. Deutsch. B2B. DACH.
+Ich merke das, seit ich **Ideen auf Probe** öffentlich dokumentiere: Einzelne Posts reichen, um eine Richtung zu zeigen — aber nicht, um einen Monat zu erklären. Warum kein Outreach in Woche eins. Was ein Gate eigentlich beweist. Was ich aus zwölf Gesprächen schließe — und was nicht.
 
-Jede Ausgabe = ein Monat des Playbooks — plus was ich gerade live teste (Codename, Signale, Gates). Kein Recycling von LinkedIn-Motivationsposts.
+Dafür starte ich einen Newsletter auf LinkedIn: **Ideen auf Probe**.
 
-Ausgabe #0: Was *Ideen auf Probe* ist und wie die 6 Monate aussehen.  
-Danach: 5PM, ICP, Discovery, Positionierung, Pricing, Kill or Hustle.
+14-tägig. Deutsch. B2B. DACH. Kein Motivations-Recycling, kein „5 Tipps für mehr Reichweite".
 
-Wenn du B2B-Ideen validierst — oder es planst — abonnieren lohnt sich.
+Jede Ausgabe folgt dem Curriculum: ein Monat, ein Schwerpunkt, ein ehrlicher Zwischenstand. Ausgabe #0 legt das Fundament — was das Protokoll ist, wie die sechs Monate aufgebaut sind, was Kill or Hustle bedeutet. Danach: 5PM, ICP, Discovery, Positionierung, Pricing, Entscheidung.
 
-Link kommt in den Kommentaren, sobald die erste Ausgabe live ist.
+Dazwischen, sobald der erste Cycle läuft: Signale aus echten Gesprächen — aggregiert, ohne Namen, ohne Pitch. Codenames statt Produktnamen. Ergebnisse statt Ankündigungen.
 
-Bis dahin: Das komplette Playbook schon lesbar → [Notion-URL]
+Ich schreibe den Newsletter primär für mich: als Archiv, das mich diszipliniert. Wenn du parallel eine B2B-Idee in DACH testest, ist er vielleicht auch für dich nützlich — weniger als Template zum Kopieren, mehr als Begleitung durch einen Prozess, den die meisten im Stillen machen.
+
+Der Link zur ersten Ausgabe kommt hier in den Kommentaren, sobald #0 live ist.
+
+Bis dahin liegt das vollständige Protokoll bereits offen:
+— [Notion-URL]  
+— https://github.com/wunderkind2k1/cursor-playground
+
+Wenn du abonnierst: Was wäre deine härteste Validierungsfrage an eine Idee?
+
+---
+
+## Hook-Variante (erste Zeile A/B)
+
+**A (Default):** *LinkedIn-Feeds sind für Snacks gebaut. Validierung braucht aber einen zweiten Gang.*
+
+**B:** *Ein Post erklärt die Richtung. Ein Newsletter erklärt den Monat.*
+
+**C:** *Ich will nicht mehr Validierungstipps lesen. Ich will Validierungsprotokolle sehen.*
 
 ---
 
 ## Kommentar (wenn Newsletter live)
 
+Die erste Ausgabe von **Ideen auf Probe** ist live — Ausgabe #0: Was das Protokoll ist und wie die sechs Monate aufgebaut sind.
+
 Hier abonnieren: [Newsletter-URL]
+
+Das Playbook parallel dazu: [Notion-URL]
 
 ---
 
-## Newsletter Ausgabe #0 — Outline
+## Newsletter Ausgabe #0 — Outline (redaktionell)
 
-**Titel:** Willkommen bei Ideen auf Probe
+**Titel:** Ideen auf Probe — Ausgabe #0: Bevor ich baue
 
-1. **Hook:** Warum ich aufhöre, zu früh zu bauen  
-2. **Was du bekommst:** 12 Ausgaben, ein Playbook, ein ehrlicher Log  
-3. **Das Curriculum:** M1–M6 + Gates (Visual einbetten)  
-4. **Kill or Hustle:** Die einzige Entscheidung, die zählt  
-5. **Links:** Notion + GitHub  
-6. **CTA:** Antworte mit deiner härtesten Validierungsfrage
+1. **Einstieg:** Bauen fühlt sich wie Fortschritt an. Validierung nicht. (persönlich)
+2. **Was dieser Newsletter ist** — und was er nicht ist (kein Growth-Hacking)
+3. **Das Curriculum** — M1–M6, Gates, ASCII-Visual
+4. **Kill or Hustle** — warum beides ein gutes Ergebnis sein kann
+5. **Transparenz** — was öffentlich ist, was zurückhaltend bleibt
+6. **Links** — Notion + GitHub
+7. **Schluss:** Eine Frage an die Leser
+
+**Ziel-Länge Ausgabe #0:** 800–1.200 Wörter (Newsletter, nicht Feed-Post)
+
+---
+
+## Redaktionsnotizen
+
+| Element | Warum |
+|---------|-------|
+| „Snacks vs. zweiter Gang" | Editorial-Metapher, kein Feature-Pitch |
+| Newsletter als Selbst-Archiv | Persönlich, nicht verkäuferisch |
+| Codenames erwähnt | Setzt Erwartung für spätere Ausgaben |
+| Ausgabe #0-Outline dabei | Autor kann direkt schreiben |
+| Kommentar-Strategie | LinkedIn-Algorithmus + Subscribe-Link |
+
+**Länge Feed-Post:** ~1.600 Zeichen
+
+---
+
+## Checkliste
+
+- [ ] Newsletter in LinkedIn angelegt (noch nicht senden)
+- [ ] Ausgabe #0 als Entwurf vorbereitet
+- [ ] `[Notion-URL]` ersetzt

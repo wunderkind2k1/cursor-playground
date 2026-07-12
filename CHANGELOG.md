@@ -62,6 +62,8 @@ Versionierung folgt [Semantic Versioning](https://semver.org/lang/de/).
 ### Geändert
 
 - LinkedIn Post 1 (Ankündigung): editorial überarbeitet — mehr Tiefe, Seriosität, persönlicher Anker
+- LinkedIn Posts 2–5: gleicher editorialer Stil (Hooks, Redaktionsnotizen, Prosa)
+- `linkedin/posts/README.md`: Stil-Leitfaden ergänzt
 - `linkedin/profil-info.md`: Ton angeglichen
 
 ### Geplant

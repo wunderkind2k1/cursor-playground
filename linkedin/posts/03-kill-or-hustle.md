@@ -2,45 +2,82 @@
 
 **Wann:** Woche 2  
 **Typ:** Methodik / Marke  
-**L-Stufe:** L1
+**L-Stufe:** L1  
+**Ton:** Editorial, sachlich, persönlicher Anker — kein Hype
 
 ---
 
 ## Post (copy-paste)
 
-Am Ende von **Ideen auf Probe** gibt es nur zwei Wörter: **Kill or Hustle**.
+Die Startup-Sprache hat zu viele Auswege.
 
-Nicht „Pivot".  
-Nicht „wir launchen trotzdem".  
-Nicht „noch 3 Monate".
+Pivot. Extend. Re-evaluate. „Wir launchen trotzdem und lernen im Markt."
 
-**Kill** heißt: Die Evidenz reicht nicht. Ich dokumentiere, was ich gelernt habe, und gehe zur nächsten Idee. Das ist ein gutes Ergebnis — nicht ein Scheitern.
+Jede Formulierung erlaubt es, weiterzumachen, ohne sich zu entscheiden. Man baut weiter, weil man schon gebaut hat. Man spricht von Iteration, wo ein Mangel an Evidenz ist.
 
-**Hustle** heißt: 6 Monate Validierung überstanden. Dann baue ich — POC, Prototyp oder MVP, je nachdem. Ziel: erste zahlende Kunden, nicht Feature-Parität mit Incumbents.
+Bei **Ideen auf Probe** lasse ich mir diesen Ausweg nicht.
 
-Die Entscheidung basiert auf 6 Dimensionen:
-→ Problem  
-→ Käufer  
-→ Muster aus Gesprächen  
-→ Zahlungsbereitschaft  
-→ Positionierung  
-→ Meine eigene Energie
+Am Ende von sechs Monaten gibt es nur zwei Wörter: **Kill or Hustle**. Nicht als Slogan — als Vertrag mit mir selbst.
 
-Alles andere — Likes, „klingt interessant", Feature-Wünsche — zählt nicht.
+**Kill** heißt: Die Daten reichen nicht. Das Problem ist zu schwach, der Käufer zu schwer erreichbar, die Zahlungsbereitschaft zu dünn — oder ich habe die Energie verloren. Ich stoppe, dokumentiere öffentlich, was ich gelernt habe, und gehe zur nächsten Idee. Das ist kein Scheitern. Es ist die disziplinierteste Form von Erfolg, die ein bootstrapped Gründer haben kann: 200 Stunden, die er nicht in ein Produkt steckt, das niemand braucht.
 
-Playbook: [Notion-URL]
+**Hustle** heißt: Sechs Monate Validierung haben eine klare Geschichte erzählt. Dann baue ich — POC, Prototyp oder MVP, je nach Reifegrad — mit einem einzigen Ziel: erste zahlende Kunden. Nicht Feature-Parität. Nicht „wir sind auch auf dem Markt".
 
-Kill or Hustle — was wäre für dich der härteste Gate?
+Die Entscheidung fällt nicht nach Likes, Feature-Wünschen oder „klingt interessant". Sie fällt nach sechs Dimensionen:
+
+→ Ist der Schmerz echt und wiederkehrend?  
+→ Ist der Käufer identifizierbar und erreichbar?  
+→ Wiederholen sich die Muster über die Gespräche hinweg?  
+→ Gibt es Signale für Zahlungsbereitschaft — nicht nur Neugier?  
+→ Resoniert die Positionierung außerhalb meines Kopfes?  
+→ Will *ich* noch zwei Jahre daran arbeiten?
+
+Alles andere ist Rauschen.
+
+Ich halte das öffentlich fest — auch die Kills. Weil die meisten Playbooks nur Hustles zeigen. Und weil junge Gründer dann glauben, sie scheiterten, wenn sie eigentlich gerade die einzige kluge Entscheidung getroffen haben.
+
+Das Protokoll: [Notion-URL]
+
+Was wäre für dich der härteste Kill-Grund — Budget, Käufer, Motivation oder etwas anderes?
+
+---
+
+## Hook-Variante (erste Zeile A/B)
+
+**A (Default):** *Die Startup-Sprache hat zu viele Auswege.*
+
+**B:** *Pivot ist manchmal nur ein elegantes Wort für: Ich will mich nicht entscheiden.*
+
+**C:** *Ein Kill nach sechs Monaten ist teurer als ein Kill nach sechs Wochen — aber immer noch billiger als ein Jahr Bauen ohne Käufer.*
 
 ---
 
 ## Optional: Poll
 
-LinkedIn-Poll (4 Optionen):
-
-„Was würde dich eher zum Kill bewegen?"
+Titel: *Was würde dich nach 6 Monaten eher zum Kill bewegen?*
 
 1. Kein Budget-Signal  
-2. Käufer nicht erreichbar  
-3. Nur Nice-to-have  
+2. Käufer schwer erreichbar  
+3. Problem bleibt Nice-to-have  
 4. Ich verliere die Motivation
+
+---
+
+## Redaktionsnotizen
+
+| Element | Warum |
+|---------|-------|
+| Kritik an Startup-Sprache | Editorial, meinungsstark |
+| Kill als Erfolg framen | Differenzierung, Ernsthaftigkeit |
+| Sechs Dimensionen in Fragen | Lesbar, nicht Scorecard-Wand |
+| „Öffentlich auch die Kills" | Transparenz-Versprechen einlösen |
+| Kein Rhyme-Betonung im Fließtext | Seriosität; Rhyme bleibt Markenanker |
+
+**Länge:** ~1.750 Zeichen
+
+---
+
+## Checkliste
+
+- [ ] Notion-Link gesetzt
+- [ ] Optional: Poll in separatem Post oder als Kommentar
