@@ -57,15 +57,23 @@ Versionierung folgt [Semantic Versioning](https://semver.org/lang/de/).
 
 ---
 
-## [Unreleased]
+## [v1.2.0] — 2026-07-12
 
-### Geändert (Terminologie v1.2)
+### Geändert
 
 - **Kill or Hustle** → **Stop oder Weitermachen** (gesamtes Repo)
 - **Early Kill** → **Früher Stop**
-- Dateien umbenannt: `06-monat-6-stop-weitermachen.md`, `07-phase-2-weitermachen.md`, `stop-weitermachen-memo.md`, `03-stop-weitermachen.md`
-- LinkedIn Posts 1–5: editorial überarbeitet (vorherige Iteration)
+- LinkedIn Posts 1–5: editorial überarbeitet (persönlicher Anker, Seriosität)
 - `linkedin/profil-info.md`: Ton angeglichen
+
+### Hinzugefügt
+
+- Dateien umbenannt: `06-monat-6-stop-weitermachen.md`, `07-phase-2-weitermachen.md`, `stop-weitermachen-memo.md`, `03-stop-weitermachen.md`
+- [AGENT-BRAINDUMP.md](./AGENT-BRAINDUMP.md) — vollständiger Handoff für künftige Agenten
+
+---
+
+## [Unreleased]
 
 ### Geplant
 

@@ -40,6 +40,7 @@ Das Playbook ist:
 | LinkedIn-Posts (Launch) | [linkedin/posts/](./linkedin/posts/) |
 | Notion einrichten | [notion/SETUP.md](./notion/SETUP.md) |
 | Diese Woche starten | [LAUNCH-CHECKLIST.md](./LAUNCH-CHECKLIST.md) |
+| **Agent-Handoff** | [AGENT-BRAINDUMP.md](./AGENT-BRAINDUMP.md) |
 
 ---
 
